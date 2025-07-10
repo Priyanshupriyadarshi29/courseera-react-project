@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Green Haven - Houseplant E-commerce
 
 A modern React Redux e-commerce website for premium houseplants, built with React, Redux Toolkit, and React Router.
@@ -165,3 +166,6 @@ src/
 ## License
 
 This project is created for educational purposes as part of a Coursera JavaScript course assignment. 
+=======
+# courseera-react-project
+>>>>>>> 73f6b232e064127df225576f445e8495567e7ad1
