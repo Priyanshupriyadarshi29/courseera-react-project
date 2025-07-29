@@ -165,6 +165,4 @@ src/
 ## License
 
 This project is created for educational purposes as part of a Coursera JavaScript course assignment. 
-=======
-# courseera-react-project
->>>>>>> 73f6b232e064127df225576f445e8495567e7ad1
+
