@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Green Haven - Houseplant E-commerce
 
 A modern React Redux e-commerce website for premium houseplants, built with React, Redux Toolkit, and React Router.
@@ -111,18 +110,18 @@ src/
 
 ## Features Implementation
 
-### Redux Store (4 points)
+### Redux Store 
 - ✅ Complete cart slice with all required actions
 - ✅ State management for cart items, quantities, and totals
 - ✅ Proper Redux Toolkit implementation
 
-### Landing Page (5 points)
+### Landing Page
 - ✅ Background image with overlay
 - ✅ Company description paragraph
 - ✅ Company name "Green Haven"
 - ✅ Get Started button linking to products
 
-### Product Listing (9 points)
+### Product Listing 
 - ✅ Six unique houseplants with thumbnails, names, and prices
 - ✅ Three categories (Succulents, Tropical, Air Plants)
 - ✅ Add to Cart buttons with proper behavior:
@@ -130,12 +129,12 @@ src/
   - ✅ Becomes disabled after adding
   - ✅ Adds to Redux store
 
-### Header (7 points)
+### Header 
 - ✅ Displays on all pages
 - ✅ Shopping cart icon with item count
 - ✅ Navigation between pages
 
-### Shopping Cart (23 points)
+### Shopping Cart 
 - ✅ Total plants count display
 - ✅ Total cost calculation
 - ✅ Each item shows thumbnail, name, and unit price
